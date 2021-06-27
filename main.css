@@ -2,7 +2,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height:120vh;
+    height:102vh;
     background-image: url("https://dm0qx8t0i9gc9.cloudfront.net/watermarks/image/rDtN98Qoishumwih/math-style-background_fkYcZVOd_SB_PM.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -13,7 +13,7 @@ body{
     width: 20%;
     background: rgb(184, 238, 232) ;
     border-radius: 25px;
-    min-height: 600px;
+    min-height: 580px;
     min-width: 350px;
     overflow: hidden;     
     box-shadow: 4px 6px #797171;
